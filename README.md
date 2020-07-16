@@ -1,6 +1,6 @@
 # dl4sci-pytorch-webinar
 
-## Live Notebooks
+## Live Notebooks on Colab
 
 1. [Tensors](https://colab.research.google.com/github/theevann/dl4sci-pytorch-webinar/blob/master/live-notebooks/webinar-1-tensors.ipynb)
 1. [Data](https://colab.research.google.com/github/theevann/dl4sci-pytorch-webinar/blob/master/live-notebooks/webinar-2-data-live.ipynb)
